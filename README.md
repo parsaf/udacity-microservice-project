@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![parsaf](https://circleci.com/gh/parsaf/udacity-microservice-project.svg?style=svg)](https://app.circleci.com/pipelines/github/parsaf/udacity-microservice-project)
 
 ## Project Overview
 
